@@ -1,0 +1,9 @@
+[2026-03-14 21:40:11,583] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-03-14 21:40:11,586] 97 werkzeug - INFO -  * Debugger PIN: 576-630-306
+[2026-03-14 21:40:12,437] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\detect.py', reloading
+[2026-03-14 21:40:12,449] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\logger.py', reloading
+[2026-03-14 21:40:12,479] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\objtypes.py', reloading
+[2026-03-14 21:40:12,508] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\pointers.py', reloading
+[2026-03-14 21:40:12,527] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\_dill.py', reloading
+[2026-03-14 21:40:12,562] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\session.py', reloading
+[2026-03-14 21:40:12,597] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\dill\\settings.py', reloading

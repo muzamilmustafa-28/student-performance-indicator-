@@ -1,0 +1,5 @@
+[2026-03-14 22:04:37,315] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-03-14 22:04:37,317] 97 werkzeug - INFO -  * Debugger PIN: 576-630-306
+[2026-03-14 22:05:12,570] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\_pytest\\capture.py', reloading
+[2026-03-14 22:05:12,672] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\_pytest\\doctest.py', reloading
+[2026-03-14 22:05:12,779] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\_pytest\\fixtures.py', reloading

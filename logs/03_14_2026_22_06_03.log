@@ -1,0 +1,9 @@
+[2026-03-14 22:06:03,768] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-03-14 22:06:03,771] 97 werkzeug - INFO -  * Debugger PIN: 576-630-306
+[2026-03-14 22:06:06,326] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\flask\\app.py', reloading
+[2026-03-14 22:06:06,328] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\site-packages\\flask\\templating.py', reloading
+[2026-03-14 22:06:06,335] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 22:06:06] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[2026-03-14 22:06:06,412] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 22:06:06] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-03-14 22:06:06,416] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 22:06:06] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-03-14 22:06:06,423] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 22:06:06] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=sJ6VffrEuqNuWDfhqcRo HTTP/1.1" 200 -
+[2026-03-14 22:06:06,431] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 22:06:06] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

@@ -1,0 +1,9 @@
+[2026-03-14 21:45:40,068] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-03-14 21:45:40,070] 97 werkzeug - INFO -  * Debugger PIN: 576-630-306
+[2026-03-14 21:45:40,117] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 21:45:40] "GET /predictdata HTTP/1.1" 200 -
+[2026-03-14 21:45:58,532] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 21:45:58] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2026-03-14 21:45:58,629] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 21:45:58] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-03-14 21:45:58,635] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 21:45:58] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-03-14 21:45:58,664] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 21:45:58] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=kY86uOB27mowgEUVL83S HTTP/1.1" 200 -
+[2026-03-14 21:45:58,673] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 21:45:58] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-03-14 21:46:24,129] 97 werkzeug - INFO -  * Detected change in 'C:\\anaconda\\Lib\\pstats.py', reloading

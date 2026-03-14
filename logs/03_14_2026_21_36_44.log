@@ -1,0 +1,14 @@
+[2026-03-14 21:36:44,242] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-03-14 21:36:44,244] 97 werkzeug - INFO -  * Debugger PIN: 576-630-306
+[2026-03-14 21:40:03,301] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\muzam\\OneDrive\\Desktop\\mlproject\\src\\components\\model_trainer.py', reloading
+[2026-03-14 21:40:03,302] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\muzam\\OneDrive\\Desktop\\mlproject\\src\\utils.py', reloading
+[2026-03-14 21:40:03,302] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\muzam\\onedrive\\desktop\\mlproject\\src\\components\\model_trainer.py', reloading
+[2026-03-14 21:40:03,303] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\muzam\\OneDrive\\Desktop\\mlproject\\src\\utils.py', reloading
+[2026-03-14 21:40:03,303] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\muzam\\OneDrive\\Desktop\\mlproject\\src\\components\\model_trainer.py', reloading
+[2026-03-14 21:40:03,304] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\muzam\\OneDrive\\Desktop\\mlproject\\src\\utils.py', reloading
+[2026-03-14 21:40:03,304] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\muzam\\onedrive\\desktop\\mlproject\\src\\utils.py', reloading
+[2026-03-14 21:40:03,305] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\muzam\\OneDrive\\Desktop\\mlproject\\src\\components\\model_trainer.py', reloading
+[2026-03-14 21:40:03,305] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\muzam\\onedrive\\desktop\\mlproject\\src\\components\\model_trainer.py', reloading
+[2026-03-14 21:40:03,305] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\muzam\\onedrive\\desktop\\mlproject\\src\\components\\model_trainer.py', reloading
+[2026-03-14 21:40:03,306] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\muzam\\onedrive\\desktop\\mlproject\\src\\utils.py', reloading
+[2026-03-14 21:40:03,306] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\muzam\\onedrive\\desktop\\mlproject\\src\\components\\model_trainer.py', reloading
